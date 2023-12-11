@@ -11,14 +11,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ahammedhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahammedhani" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/ahammedhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahammedhani" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/26189063" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26189063" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19871190/ahammed-hani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26189063" height="30" width="40" /></a>
 <a href="https://kaggle.com/ahammedhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahammedhani" height="30" width="40" /></a>
 <a href="https://fb.com/ahammedhani1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahammedhani1" height="30" width="40" /></a>
 <a href="https://instagram.com/ahammedhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahammedhani" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahammedhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahammedhani" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/haniahammed7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="haniahammed7" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@haniahammed7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="haniahammed7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
