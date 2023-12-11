@@ -2,13 +2,12 @@
 <h1 align="center">Hi 👋, I'm Ahammed Hani</h1>
 <h3 align="center">MCA student</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahammedhani&label=Profile%20views&color=0e75b6&style=flat" alt="ahammedhani" /> </p>
+
+<p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="jaseem kalappatt" height="400" width="100%" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahammedhani" alt="ahammedhani" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ahammedhani" target="blank"><img src="https://img.shields.io/twitter/follow/ahammedhani?logo=twitter&style=for-the-badge" alt="ahammedhani" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
