@@ -41,8 +41,8 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ahammedhani&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahammedhani&theme=dracula&hide_border=false)
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahammedhani&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)-->
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=ahammedhani&theme=dracula&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahammedhani&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)-->
 
 ## 🔝 Top Contributed Repositories:
 ![](https://github-contributor-stats.vercel.app/api?username=ahammedhani&limit=5&theme=dracula&combine_all_yearly_contributions=true)
