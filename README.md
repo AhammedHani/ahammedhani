@@ -2,13 +2,13 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="ahammed hani" height="250" width="50%" /></p>
 
-## 💫 About Me:
+## 💫 About me:
 🔭 I'm currently working on tech, obviously.<br>
 🌱 I'm currently learning how to cope with ugly code.<br>
 👯 I'm looking to collaborate on where i can contribute.<br>
 🤝 I'm looking for help with escaping earth.<br>
-💬 Ask me about anything tech.<br>
-⚡ Fun fact - I'm still a student....
+💬 Ask me about anything.
+<!--⚡ Fun fact - I'm still a student....-->
 
 ## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://m.facebook.com/ahammedhani1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahammedhani/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ahammedhani/) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/19871190/ahammed-hani) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/ahammedhani) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/ahammedhani/) [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?logo=HackerEarth&logoColor=white)](https://www.hackerearth.com/@haniahammed7)
@@ -50,5 +50,5 @@
 ----
 [![](https://visitcount.itsvg.in/api?id=ahammedhani&icon=7&color=4)](https://visitcount.itsvg.in)
 
-## 💰 You can PayPal me here:
+## 💰 You can PayPal me:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ahammedhani) 
