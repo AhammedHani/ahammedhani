@@ -10,15 +10,8 @@
 💬 Ask me about anything tech.<br>
 ⚡ Fun fact - I'm still a student....
 
-
-
-
-
 ## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://m.facebook.com/ahammedhani1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ahammedhani/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/ahammedhani/) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/19871190/ahammed-hani) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/ahammedhani) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/ahammedhani/) [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?logo=HackerEarth&logoColor=white)](https://www.hackerearth.com/@haniahammed7)
-
-
-
 
 ## 💻 Languages and Tools:
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -46,14 +39,10 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-
-
-
-
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahammedhani&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahammedhani&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahammedhani&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ahammedhani&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahammedhani&theme=dracula&hide_border=false)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahammedhani&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)-->
 
 ## 🔝 Top Contributed Repositories:
 ![](https://github-contributor-stats.vercel.app/api?username=ahammedhani&limit=5&theme=dracula&combine_all_yearly_contributions=true)
@@ -61,8 +50,5 @@
 ----
 [![](https://visitcount.itsvg.in/api?id=ahammedhani&icon=7&color=4)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by:
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ahammedhani) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💰 You can PayPal me here:
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ahammedhani) 
