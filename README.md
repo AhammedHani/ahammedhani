@@ -6,11 +6,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="ahammed hani" height="250" width="50%" /></p>
 
 ## 💫 About me:
-🔭 I'm currently working on tech, obviously.<br>
-🌱 I'm currently learning how to cope with ugly code.<br>
-👯 I'm looking to collaborate on where i can contribute.<br>
-🤝 I'm looking for help with escaping earth.<br>
-💬 Ask me about anything.
+🔭 Currently working on innovative tech solutions.<br>
+🌱 Continuously improving code quality and best practices.<br>
+👯 Open to collaborations where I can add value.<br>
+🤝 Exploring new challenges and opportunities.<br>
+💬 Feel free to ask me anything!
 <!--⚡ Fun fact - I'm still a student....-->
 
 ## 🌐 Connect with me:
