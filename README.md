@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ahammed Hani</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ahammed Hani</h1> -->
+<p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=1000px&section=header&text=%20Ahammed%20Hani&fontSize=50&fontAlign=22&fontAlignY=40&descAlign=68&descAlignY=70&descFontSize=3" alt="Ahammed Hani"/>
+</p>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="ahammed hani" height="250" width="50%" /></p>
 
